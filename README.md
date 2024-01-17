@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasya aThooriq!!</h1>
-<h3 align="center">Siswa SMK Telkom Sidoarjo Jurusan Teknik Jaringan Akses Telekomunikasi (TJAT). System Administrator yang memiliki kemampuan inovatif,eksploratif, enthusiastis dan pemahaman bagus sehingga mampu membuat dan merancang sebuah ide yang solutif. terampil dalam mengelola dan menjaga kestabilan infrastruktur sistem, serta memiliki keahlian dalam melakukan pemeliharaan dan pengoptimalkan kinerja server.</h3>
+<h3 align="center">System Administrator yang memiliki kemampuan inovatif,eksploratif, enthusiastis dan pemahaman bagus sehingga mampu membuat dan merancang sebuah ide yang solutif. terampil dalam mengelola dan menjaga kestabilan infrastruktur sistem, serta memiliki keahlian dalam melakukan pemeliharaan dan pengoptimalkan kinerja server.</h3>
 
 - 🔭 I’m currently Studying on **SMK Telkom Sidoarjo**
 
